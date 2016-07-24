@@ -7,7 +7,7 @@ The original problem is described in 'problem.png' as follows:
 
 ![Image of Problem](https://github.com/mickelsonm/hiddenwords/blob/master/problem.png)
 
-Added constraints:
+### Added constraints:
 
 - The character list string must have at least 3 characters
 - The text to be searched or analyzed must have at least 50 characters
